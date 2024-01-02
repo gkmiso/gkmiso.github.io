@@ -96,7 +96,7 @@ content:
         sub_title: "한국생산성본부"
         caption: "2014.07"
 
-    - title: 수상 이력
+  - title: 수상 이력
     layout: list
     content:
       - layout: left
@@ -107,7 +107,7 @@ content:
   - title: 마지막 한마디
     layout: text
     content: | 
-    **프론트엔드 개발자**로서의 역할을 수행하면서, 혁신적이고 사용자 중심의 서비스를 제공하는 데 동참하고, 회사와 함께 *성장*하고자 합니다. 이 기회를 통해 더 나은 미래를 함께 만들어 나가기를 기대합니다.
+      **프론트엔드 개발자**로서의 역할을 수행하면서, 혁신적이고 사용자 중심의 서비스를 제공하는 데 동참하고, 회사와 함께 *성장*하고자 합니다. 이 기회를 통해 더 나은 미래를 함께 만들어 나가기를 기대합니다.
 
 # Footer
 footer_show_references: true
