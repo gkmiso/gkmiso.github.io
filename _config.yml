@@ -69,8 +69,8 @@ content:
         title: "소프트웨어 엔지니어링 부트캠프 (프론트엔드)"
         sub_title: "코드스테이츠"
         caption: "2022.12.15 - 2023.06.08 (120일 / 총 960시간)"
-        link: http://lumian-project.s3-website.ap-northeast-2.amazonaws.com/
-        link_text: [LUMIAN Project](https://gkmiso.tistory.com/121)
+        link: "http://lumian-project.s3-website.ap-northeast-2.amazonaws.com/"
+        link_text: "[LUMIAN Project](https://gkmiso.tistory.com/121)"
         quote: >
           2023.04.28 - 2023.05.25
         description: | 
