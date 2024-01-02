@@ -9,7 +9,6 @@ version: 2
 name: Gwak Miso
 title: Frontend Developer
 email: gkmiso@naver.com
-website: www.gkmiso.tistory.com
 
 # Dark Mode (true/false/never)
 darkmode: false
