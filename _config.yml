@@ -1,19 +1,15 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: sproogen/modern-resume-theme
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
 name: Gwak Miso
-title: Your job title
+title: Frontend Developer
 email: gkmiso@naver.com
-# email_title: Email (Email title override)
-phone: 010-****-****
-# phone_title: Phone (Phone title override)
-website: https://******.tistory.com
-# website_title: Web (Website title override)
+website: www.gkmiso.tistory.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -22,10 +18,12 @@ darkmode: false
 github_username: gkmiso
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+github_username: miso-hub
+
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -37,75 +35,89 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+# about_title: 나를 소개합니다.
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  안녕하세요. <mark>곽미소</mark>입니다.
+    - [Tistory](https://gkmiso.tistory.com)
+    - [Github](https://github.com/gkmiso) - Portfolio
+    - [Github](https://github.com/miso-hub) - Coding Test Practice
+  # - <a href="google.com">Links</a>
+  # - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: 경력
+    layout: list
+    content:
+      - layout: left
+        title: (주)*******
+        sub_title: Data Service / 사원
+        caption: 2020.08.12 ~ 2022.09.30
+        quote: >
+          Excel을 활용한 데이터 리서치 및 정제, 데이터 통계 및 분석, 고객사 DB 운영/대행, 관리방안 도출 및 Insight 도출
+        description: | 
+          2021년 성과에서는 전체 부서 평균 73% 중 개인 성과로 93% 달성하며 업무 정확도와 속도 향상으로 팀의 성과에 긍정적인 영향을 미침
+  
+  - title: 학력
+    layout: list
+    content:
+      - layout: left
+        title: ******대학교
+        sub_title: 컴퓨터공학과
+        
+  - title: 교육 이수
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: 소프트웨어 엔지니어링 부트캠프 (프론트엔드)
+        sub_title: 코드스테이츠
+        caption: 2022.12.15 - 2023.06.08 (120일 / 총 960시간)
+        link: http://lumian-project.s3-website.ap-northeast-2.amazonaws.com/
+        link_text: [LUMIAN Project](https://gkmiso.tistory.com/121)
         quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+          2023.04.28 - 2023.05.25
+        description: | 
+          해당 웹사이트는 위버스에서 영감을 받아 만들어졌습니다. Lumian은 아티스트와 팬 간의 경계를 허물고, 함께 소통할 수 있는 공간입니다. 소셜 네트워크와 같은 커뮤니티 기능을 통해 팬들은 아티스트와 쉽게 대화를 나눌 수 있으며, 아티스트 노래 추천 기능을 제공하고 있어서 팬들은 아티스트가 추천하는 곡을 들을 수 있습니다.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  - title: 자격증
+    layout: list
+    content:
+      - layout: left
+        title: 리눅스마스터 2급
+        sub_title: 한국정보통신진흥협회
+        caption: 2023.12
+      - layout: left
+        title: 정보처리기능사
+        sub_title: 한국산업인력공단
+        caption: 2015.07
+      - layout: left
+        title: 컴퓨터활용능력 2급
+        sub_title: 대한상공회의소
+        caption: 2015.04
+      - layout: left
+        title: ITQ OA Master(한글액세스, 한글엑셀, 한글파워포인트, 아래한글)
+        sub_title: 한국생산성본부
+        caption: 2014.07
+
+    - title: 수상 이력
+    layout: list
+    content:
+      - layout: left
+        title: 1학기 여름학기 현장실습 I2C(In-field training to Capstone design) 경진대회
+        sub_title: ******대학교
+        caption: 2018.10
+        
+  - title: 마지막 한마디
+    layout: text
+    content: | 
+    **프론트엔드 개발자**로서의 역할을 수행하면서, 혁신적이고 사용자 중심의 서비스를 제공하는 데 동참하고, 회사와 함께 *성장*하고자 합니다. 이 기회를 통해 더 나은 미래를 함께 만들어 나가기를 기대합니다.
 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
