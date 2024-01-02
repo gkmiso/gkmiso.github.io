@@ -36,9 +36,9 @@ github_username: gkmiso
 about_profile_image: images/profile.jpg
 about_content: | 
   안녕하세요. <mark>곽미소</mark>입니다.
-    - [Tistory](https://gkmiso.tistory.com)
-    - [Github](https://github.com/gkmiso) - Portfolio
-    - [Github](https://github.com/miso-hub) - Coding Test Practice
+  - [Tistory](https://gkmiso.tistory.com)
+  - [Github](https://github.com/gkmiso) - Portfolio
+  - [Github](https://github.com/miso-hub) - Coding Test Practice
 
 content:
   - title: 경력
