@@ -102,8 +102,10 @@ content:
     layout: list
     content:
       - layout: left
-        title: "****대학교"
-        sub_title: "컴퓨터공학과"
+        caption: "2018.10.10"
+        description: | 
+          ****대학교
+            - 컴퓨터공학과
 
   - title: 수상 이력
     layout: list
@@ -111,8 +113,8 @@ content:
       - layout: left
         caption: "2018.10.10"
         description: | 
-          - 1학기 여름학기 현장실습 I2C(In-field training to Capstone design) 경진대회 장려상
-            - "****대학교"
+          1학기 여름학기 현장실습 I2C(In-field training to Capstone design) 경진대회
+            - ****대학교
         
   - title: 마지막 한마디
     layout: text
