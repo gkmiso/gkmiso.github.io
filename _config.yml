@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Gwak Miso
-title: Frontend Developer
+title: Portfolio
 email: gkmiso@naver.com
 
 # Dark Mode (true/false/never)
@@ -31,7 +31,7 @@ github_username: gkmiso
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: 나를 소개합니다.
+about_title: 불타는 엉덩이를 가진 개발자, 곽미소 입니다.
 about_profile_image: images/profile.jpg
 about_content: | 
   안녕하세요. <mark>곽미소</mark>입니다.
@@ -57,18 +57,7 @@ content:
           - 성과
             - 2021년 성과에서는 전체 부서 평균 73% 중 개인 성과로 93% 달성
             - 업무 정확도와 속도 향상으로 팀의 성과에 긍정적인 영향을 미침
-  
-  - title: 학력
-    layout: list
-    content:
-      - layout: left
-        title: "****대학교"
-        sub_title: "컴퓨터공학과"
-        quote: >
-          수상 이력 (2018.10.10)
-        description: | 
-          1학기 여름학기 현장실습 I2C(In-field training to Capstone design) 경진대회
-        
+
   - title: 교육 이수
     layout: list
     content:
@@ -108,11 +97,27 @@ content:
         caption: "2014.07"
         description: | 
           ITQ OA Master(한글액세스, 한글엑셀, 한글파워포인트, 아래한글)
+  
+  - title: 학력
+    layout: list
+    content:
+      - layout: left
+        title: "****대학교"
+        sub_title: "컴퓨터공학과"
+
+  - title: 수상 이력
+    layout: list
+    content:
+      - layout: left
+        caption: "2018.10.10"
+        description: | 
+          - 1학기 여름학기 현장실습 I2C(In-field training to Capstone design) 경진대회 장려상
+            - "****대학교"
         
   - title: 마지막 한마디
     layout: text
     content: | 
-      **프론트엔드 개발자**로서의 역할을 수행하면서, 혁신적이고 사용자 중심의 서비스를 제공하는 데 동참하고, 회사와 함께 *성장*하고자 합니다. 이 기회를 통해 더 나은 미래를 함께 만들어 나가기를 기대합니다.
+      **개발자**로서의 역할을 수행하면서, 혁신적이고 사용자 중심의 서비스를 제공하는 데 동참하고, 회사와 함께 *성장*하고자 합니다. 이 기회를 통해 더 나은 미래를 함께 만들어 나가기를 기대합니다.
 
 # Footer
 footer_show_references: true
