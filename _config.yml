@@ -113,8 +113,8 @@ content:
       - layout: left
         caption: "2018.10.10"
         description: | 
-          1학기 여름학기 현장실습 I2C(In-field training to Capstone design) 경진대회
-            - ****대학교
+          title: 1학기 여름학기 현장실습 I2C(In-field training to Capstone design) 경진대회
+                  ****대학교
         
   - title: 마지막 한마디
     layout: text
