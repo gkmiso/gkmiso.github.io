@@ -39,72 +39,42 @@ about_content: |
   - [Github](https://github.com/gkmiso) - Portfolio
   - [Github](https://github.com/miso-hub) - Coding Test Practice
 
-content:
-  - title: 경력
-    layout: list
-    content:
-      - layout: left
-        title: "(주)*******"
-        sub_title: "Data Service / 사원"
-        caption: "2020.08.12 ~ 2022.09.30"
+co수
         description: | 
-          - 업무
-            - Excel을 활용한 데이터 리서치 및 정제
-            - 데이터 통계 및 분석
-            - 고객사 DB 운영/대행
-            - 관리방안 도출 및 Insight 도출
-
-          - 성과
-            - 2021년 성과에서는 전체 부서 평균 73% 중 개인 성과로 93% 달성
-            - 업무 정확도와 속도 향상으로 팀의 성과에 긍정적인 영향을 미침
-
-  - title: 교육 이수
-    layout: list
-    content:
-      - layout: left
-        title: "소프트웨어 엔지니어링 부트캠프 (프론트엔드)"
-        sub_title: "코드스테이츠"
-        caption: "2022.12.15 - 2023.06.08 (120일 / 총 960시간)"
-        quote: >
-          Lumian 프로젝트 (2023.04.28 - 2023.05.25)
-        description: | 
-          해당 웹사이트는 위버스에서 영감을 받아 만들어졌습니다. [Lumian](http://lumian-project.s3-website.ap-northeast-2.amazonaws.com/)은 아티스트와 팬 간의 경계를 허물고, 함께 소통할 수 있는 공간입니다. 소셜 네트워크와 같은 커뮤니티 기능을 통해 팬들은 아티스트와 쉽게 대화를 나눌 수 있으며, 아티스트 노래 추천 기능을 제공하고 있어서 팬들은 아티스트가 추천하는 곡을 들을 수 있습니다.
+          - Lumian 프로젝트 (2023.04.28 - 2023.05.25)
+            - 해당 웹사이트는 위버스에서 영감을 받아 만들어졌습니다. [Lumian](http://lumian-project.s3-website.ap-northeast-2.amazonaws.com/)은 아티스트와 팬 간의 경계를 허물고, 함께 소통할 수 있는 공간입니다. 소셜 네트워크와 같은 커뮤니티 기능을 통해 팬들은 아티스트와 쉽게 대화를 나눌 수 있으며, 아티스트 노래 추천 기능을 제공하고 있어서 팬들은 아티스트가 추천하는 곡을 들을 수 있습니다.
 
   - title: 자격증
     layout: list
     content:
       - layout: left
-        title: "리눅스마스터 2급"
-        sub_title: "한국정보통신진흥협회"
         caption: "2023.12"
         description: | 
-          리눅스마스터 2급
+          - **리눅스마스터 2급**
+            - 한국정보통신진흥협회
       - layout: left
-        title: "정보처리기능사"
-        sub_title: "한국산업인력공단"
         caption: "2015.07"
         description: | 
-          정보처리기능사
+          - **정보처리기능사**
+            - 한국산업인력공단
       - layout: left
-        title: "컴퓨터활용능력 2급"
-        sub_title: "대한상공회의소"
         caption: "2015.04"
         description: | 
-          컴퓨터활용능력 2급
+          - **컴퓨터활용능력 2급**
+            - 대한상공회의소
       - layout: left
-        title: "ITQ OA Master"
-        sub_title: "한국생산성본부"
         caption: "2014.07"
         description: | 
-          ITQ OA Master(한글액세스, 한글엑셀, 한글파워포인트, 아래한글)
+          - **ITQ OA Master**(한글액세스, 한글엑셀, 한글파워포인트, 아래한글)
+            - 한국생산성본부
   
   - title: 학력
     layout: list
     content:
       - layout: left
-        caption: "2018.10.10"
+        caption: "2020.02 졸업"
         description: | 
-          - 대학교
+          - **대학교**
             - 컴퓨터공학과
 
   - title: 수상 이력
