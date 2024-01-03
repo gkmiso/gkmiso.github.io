@@ -32,7 +32,7 @@ github_username: gkmiso
 
 # About Section
 about_title: 불타는 엉덩이를 가진 개발자, 곽미소 입니다.
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | 
   안녕하세요. <mark>곽미소</mark>입니다.
   - [Tistory](https://gkmiso.tistory.com)
@@ -104,7 +104,7 @@ content:
       - layout: left
         caption: "2018.10.10"
         description: | 
-          ****대학교
+          - 대학교
             - 컴퓨터공학과
 
   - title: 수상 이력
@@ -113,8 +113,8 @@ content:
       - layout: left
         caption: "2018.10.10"
         description: | 
-          title: 1학기 여름학기 현장실습 I2C(In-field training to Capstone design) 경진대회
-          text: ****대학교
+          - **1학기 여름학기 현장실습 I2C(In-field training to Capstone design) 경진대회**
+            - 대학교
         
   - title: 마지막 한마디
     layout: text
