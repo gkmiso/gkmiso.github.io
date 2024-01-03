@@ -42,6 +42,23 @@ about_content: |
     - Coding Test Practice
 
 content:
+  - title: 경력
+    layout: list
+    content:
+      - layout: left
+        caption: "2020.08.12 - 2022.09.30"
+        description: | 
+          - **주식회사**
+          - Data Service / 사원
+            - <mark>Excel</mark>을 활용한 데이터 리서치 및 정제
+            - 데이터 통계 및 분석
+            - 고객사 DB 운영/대행
+            - 관리방안 도출 및 Insight 도출
+            
+          - 성과
+            - 2021년 성과에서는 전체 부서 평균 73% 중 개인 성과로 93% 달성
+            - 업무 정확도와 속도 향상으로 팀의 성과에 긍정적인 영향을 미침
+            
   - title: 교육 이수
     layout: list
     content:
