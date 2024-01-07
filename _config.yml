@@ -48,7 +48,7 @@ content:
       - layout: left
         caption: "2020.08.12 - 2022.09.30"
         description: | 
-          - **주식회사**
+          - **(주)○○○○○○○**
           - Data Service / 사원
             - <mark>Excel</mark>을 활용한 데이터 리서치 및 정제
             - 데이터 통계 및 분석
@@ -96,25 +96,6 @@ content:
         description: | 
           - **ITQ OA Master**(한글액세스, 한글엑셀, 한글파워포인트, 아래한글)
               - 한국생산성본부
-  
-  - title: 학력
-    layout: list
-    content:
-      - layout: left
-        caption: "2020.02 졸업"
-        description: | 
-          - **대학교**
-            - 컴퓨터공학과 학사 취득
-
-  - title: 수상 이력
-    layout: list
-    content:
-      - layout: left
-        caption: "2018.10.10"
-        description: | 
-          - **1학기 여름학기 현장실습 I2C(In-field training to Capstone design) 경진대회**
-            - 대학교
-
 
             
 
