@@ -81,7 +81,8 @@ content:
               - [stackoverflow](https://stackoverflow.co/) 홈페이지 클론코딩 (회원가입, 로그인, 마이페이지, 질문페이지)
           - Lumian 프로젝트 (2023.04.28 - 2023.05.25)
               - 해당 웹사이트는 위버스에서 영감을 받아 만들어졌습니다. [Lumian](http://lumian-project.s3-website.ap-northeast-2.amazonaws.com/)은 아티스트와 팬 간의 경계를 허물고, 함께 소통할 수 있는 공간입니다. 소셜 네트워크와 같은 커뮤니티 기능을 통해 팬들은 아티스트와 쉽게 대화를 나눌 수 있으며, 아티스트 노래 추천 기능을 제공하고 있어서 팬들은 아티스트가 추천하는 곡을 들을 수 있습니다.
-              - front-end 툴 소개 : JavaScript, React, React-Router, Redux-ToolKit, Styled-Components, Axios, ESLint, Prettier, Figma
+              - 사용 기술 스택(front-end) : JavaScript, React, React-Router, Redux-ToolKit, Styled-Components, Axios, ESLint, Prettier, Figma
+              - 담당(팀원) : 초기 뮤직 페이지 구현, 프로필 페이지 기능 및 페이지 구현, 소개 페이지 기능 및 페이지 구현
 
   - title: 자격증
     layout: list
