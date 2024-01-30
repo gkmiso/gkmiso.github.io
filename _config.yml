@@ -49,6 +49,14 @@ about_content: |
     - Coding Test Practice
 
 content:
+- title: 학력
+    layout: list
+    content:
+      - layout: left
+        caption: "2020.02.14 졸업"
+        description: | 
+          - **○○○○○○대학교 컴퓨터공학부 컴퓨터공학과**
+
   - title: 경력
     layout: list
     content:
@@ -57,7 +65,7 @@ content:
         description: | 
           - **(주)○○○○○○○**
           - Data Service / 사원
-            - skill <mark>Excel</mark>
+            - skill <mark>Excel</mark> <mark>PowerPoint</mark>
             - 데이터 리서치 및 정제
             - 데이터 통계 및 분석
             - 고객사 DB 운영/대행
