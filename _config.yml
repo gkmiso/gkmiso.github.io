@@ -50,13 +50,13 @@ about_content: |
 
 content:
  - title: 학력
-    layout: list
-    content:
-      - layout: left
-        caption: "2020.02.14 졸업"
-        description: | 
-          - **○○○○○○대학교**
-          - 컴퓨터공학부 컴퓨터공학과
+   layout: list
+   content:
+     - layout: left
+       caption: "2020.02.14 졸업"
+       description: | 
+         - **○○○○○○대학교**
+         - 컴퓨터공학부 컴퓨터공학과
 
   - title: 경력
     layout: list
