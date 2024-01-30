@@ -49,14 +49,14 @@ about_content: |
     - Coding Test Practice
 
 content:
- - title: 학력
-   layout: list
-   content:
-     - layout: left
-       caption: "2020.02.14 졸업"
-       description: | 
-         - **○○○○○○대학교**
-         - 컴퓨터공학부 컴퓨터공학과
+  - title: 학력
+    layout: list
+    content:
+      - layout: left
+        caption: "2020.02.14 졸업"
+        description: | 
+          - **○○○○○○대학교**
+          - 컴퓨터공학부 컴퓨터공학과
 
   - title: 경력
     layout: list
@@ -75,7 +75,7 @@ content:
           - 성과
             - 2021년 성과에서는 전체 부서 평균 73% 중 **개인 성과로 93% 달성**
             - 업무 정확도와 속도 향상으로 팀의 성과에 긍정적인 영향을 미침
-            
+
   - title: 교육 이수
     layout: list
     content:
@@ -117,8 +117,6 @@ content:
         description: | 
           - **ITQ OA Master**(한글액세스, 한글엑셀, 한글파워포인트, 아래한글)
               - 한국생산성본부
-
-            
 
 # Footer
 footer_show_references: true
