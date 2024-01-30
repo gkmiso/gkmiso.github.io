@@ -49,7 +49,7 @@ about_content: |
     - Coding Test Practice
 
 content:
-- title: 학력
+ - title: 학력
     layout: list
     content:
       - layout: left
