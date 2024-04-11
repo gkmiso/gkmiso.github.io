@@ -82,8 +82,9 @@ content:
         caption: "2022.12.15 - 2023.06.08 (120일 / 총 960시간)"
         description: | 
           - **소프트웨어 엔지니어링 부트캠프 (프론트엔드)**
-            - 코드스테이츠
-          - [교육](https://www.codestates.com/help/article/4465186680217)
+            - [코드스테이츠](https://www.codestates.com/)
+          - 교육
+              - [커리큘럼](https://www.codestates.com/help/article/4465186680217/)
               - <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>React</mark> <mark>Figma</mark>
               - 약 4개월간 18명의 동료와 랜덤 페어 프로그래밍
           - stackoverflow Clone Coding 프로젝트 (2023.04.11 - 2023.04.27)
@@ -97,7 +98,7 @@ content:
   - title: 자격증
     layout: list
     content:
-    - layout: left
+      - layout: left
         caption: "2024.00.00"
         description: | 
           - **정보처리기사**
