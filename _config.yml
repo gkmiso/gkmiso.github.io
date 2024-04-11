@@ -45,10 +45,7 @@ about_content: |
   서비스를 개발하는 개발자로서의 역할을 수행하면서, 혁신적이고 사용자 중심의 서비스를 제공하는 데 동참하고, 회사와 함께 성장하고자 합니다. 이 기회를 통해 더 나은 미래를 함께 만들어 나가기를 기대합니다.<br/>
   
   - [Tistory](https://gkmiso.tistory.com)
-  - [Github](https://github.com/gkmiso2023)
-    - 2024년 2월 이전
   - [Github](https://github.com/gkmiso)
-    - 2024년 2월 이후
 
 content:
   - title: 학력
@@ -75,7 +72,7 @@ content:
             - 관리방안 도출 및 Insight 도출
             
           - 성과
-            - 2021년 성과에서는 전체 부서 평균 73% 중 **개인 성과로 93% 달성**
+            - 2021년 전체 부서 평균 73% 중 **개인 성과로 93% 달성**
             - 업무 정확도와 속도 향상으로 팀의 성과에 긍정적인 영향을 미침
 
   - title: 교육 이수
@@ -86,7 +83,7 @@ content:
         description: | 
           - **소프트웨어 엔지니어링 부트캠프 (프론트엔드)**
             - 코드스테이츠
-          - 교육
+          - [교육](https://www.codestates.com/help/article/4465186680217)
               - <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>React</mark> <mark>Figma</mark>
               - 약 4개월간 18명의 동료와 랜덤 페어 프로그래밍
           - stackoverflow Clone Coding 프로젝트 (2023.04.11 - 2023.04.27)
@@ -100,16 +97,16 @@ content:
   - title: 자격증
     layout: list
     content:
+    - layout: left
+        caption: "2024.."
+        description: | 
+          - **정보처리기사**
+              - 한국산업인력공단
       - layout: left
         caption: "2023.12.29"
         description: | 
           - **리눅스마스터 2급**
               - 한국정보통신진흥협회
-      - layout: left
-        caption: "2015.07.30"
-        description: | 
-          - **정보처리기능사**
-              - 한국산업인력공단
       - layout: left
         caption: "2015.04.03"
         description: | 
