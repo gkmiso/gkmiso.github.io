@@ -98,7 +98,7 @@ content:
     layout: list
     content:
     - layout: left
-        caption: "2024.."
+        caption: "2024.00.00"
         description: | 
           - **정보처리기사**
               - 한국산업인력공단
